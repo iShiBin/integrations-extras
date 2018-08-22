@@ -8,5 +8,5 @@ instances:
     # ssl_cert: /path/to/cert.pem
     # ssl_key: /path/to/cert.key
     tags:
-      - 'app:logstrash-upstream'
+      - 'app:logstash-upstream'
     #  - 'tag2:key2'
